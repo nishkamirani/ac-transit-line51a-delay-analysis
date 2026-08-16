@@ -17,7 +17,7 @@ Line 51A is one of AC Transit's heaviest-ridership corridors, connecting Downtow
 ### 1. Daytime Corridor Bottlenecks
 During daytime peak hours, travel time variance concentrates along specific segments of Broadway. Real-time predictions indicate significant speed degradation around major signalized intersections and high-occupancy boardings.
 
-![Daytime Bottlenecks](visuals/daytime_bottlenecks.png)
+![Daytime Bottlenecks]
 
 * **Impact:** Signal delay and dwell variance accumulate sequentially along Broadway, creating localized travel time spikes that ripple down the line.
 * **Policy Takeaway:** Targeted transit signal priority (TSP) and queue jumps along Broadway offer higher marginal performance gains than route-wide schedule padding.
@@ -25,7 +25,7 @@ During daytime peak hours, travel time variance concentrates along specific segm
 ### 2. Evening Arrival Headway Outliers
 Analysis of evening arrivals demonstrates that off-peak delays transition from speed degradation to irregular headways.
 
-![Evening Headways](visuals/evening_headways.png)
+![Evening Headways]
 
 * **Impact:** Arrival interval distributions widen significantly in the evening, leading to long headway gaps followed by closely space arrivals (bus bunching).
 * **Policy Takeaway:** Evening performance issues stem from dispatch recovery times and terminal departures rather than corridor traffic congestion.
